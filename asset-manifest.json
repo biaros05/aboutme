@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.7f229980.css",
-    "main.js": "/aboutme/static/js/main.c03f72cb.js",
+    "main.css": "/aboutme/static/css/main.b383e3fd.css",
+    "main.js": "/aboutme/static/js/main.2f383422.js",
     "static/js/453.b05d8aa5.chunk.js": "/aboutme/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/aboutme/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/aboutme/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/medical.png": "/aboutme/static/media/medical.9bf72ef7307bba5870b8.png",
+    "static/media/earth.png": "/aboutme/static/media/earth.31ba385f0d7dcb71290e.png",
+    "static/media/avatar.jpg": "/aboutme/static/media/avatar.871d0cc7a585dff2a19d.jpg",
+    "static/media/UNO.png": "/aboutme/static/media/UNO.b661ece0554078cc774c.png",
+    "static/media/recipes.png": "/aboutme/static/media/recipes.f018f0322772bbc3ad04.png",
     "index.html": "/aboutme/index.html",
-    "main.7f229980.css.map": "/aboutme/static/css/main.7f229980.css.map",
-    "main.c03f72cb.js.map": "/aboutme/static/js/main.c03f72cb.js.map",
+    "main.b383e3fd.css.map": "/aboutme/static/css/main.b383e3fd.css.map",
+    "main.2f383422.js.map": "/aboutme/static/js/main.2f383422.js.map",
     "453.b05d8aa5.chunk.js.map": "/aboutme/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f229980.css",
-    "static/js/main.c03f72cb.js"
+    "static/css/main.b383e3fd.css",
+    "static/js/main.2f383422.js"
   ]
 }
