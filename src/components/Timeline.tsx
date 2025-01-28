@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Computer Science Student</h3>
-            <h4 className="vertical-timeline-element-subtitle">Montreal, Canada</h4>
+            <h4 className="vertical-timeline-element-subtitle">Dawson College - MTL, Canada</h4>
             <p>
               3 year Computer Science student at Dawson College, receiving a DEC degree upon completion of the program.
             </p>
@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Montreal, Canada</h4>
+            <h4 className="vertical-timeline-element-subtitle">Morgan Stanley - MTL, Canada</h4>
             <p>
               Full Stack Developer at Morgan Stanley. Developed a new Invoice Tracker feature for a pre-existing application.
             </p>
