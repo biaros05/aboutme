@@ -1,15 +1,18 @@
-.container {
+.about-container {
+  display: flex;
+  flex-direction: column;
   padding: 5% 10%;
+  text-align: left;
 }
 
 .dark-mode{
   b {
-    color:rgb(106, 99, 196);
+    color:rgb(129, 88, 251);
   }
 }
 
 .light-mode {
   b {
-    color:rgb(106, 99, 196);
+    color: rgb(52, 41, 206);
   }
 }

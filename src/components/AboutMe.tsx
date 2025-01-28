@@ -4,8 +4,8 @@ import '../assets/styles/AboutMe.scss';
 function AboutMe() {
 
   return (
-    <div className="container">
-      <h2>About me</h2> 
+    <div className="about-container">
+      <h1>About me</h1> 
       <p>Hey there! My name is Bianca Rossetti and I'm a <b>Computer Science student</b> at Dawson College. 
         Throughout my time there, I learned a wide array of different technologies, some of my favourites being <b>Full Stack Development and Programming</b> various apps and games! 
         Though I do work with computers a lot, in my free time, I also love to <b>read and meet with my friends</b>! 
